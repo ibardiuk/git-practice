@@ -2,3 +2,4 @@ test
 new
 d
 reset
+new commit
