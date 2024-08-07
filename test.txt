@@ -3,3 +3,5 @@ new
 d
 new commit
 develop
+reset
+rebase
